@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RODR1GU3S
+- 👋 Hi, I’m Ronaldo Rodrigues
 - 👀 I’m interested in C# and .Net
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on C#
