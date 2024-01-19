@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ronaldo Rodrigues
 - 👀 I’m interested in C# and .Net
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on C#
+- 🌱 I’m currently learning C# and MySQL
+- 💞️ I’m looking for Developer opportunities
 - 📫 How to reach me "RODR1GU3S"
 
 <!---
