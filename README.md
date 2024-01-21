@@ -1,6 +1,6 @@
 - Hi, I'm Ronaldo Rodrigues;
 - I'm currently learning C# and MySQL at Senac College;
-- I'm looking for developer opportunities in C# and .Net languages;
+- I'm looking for developer opportunities in C# and .Net Framework languages;
 - How to reach me "RODR1GU3S" and "www.linkedin.com/in/ronaldo-rodr1gu3s"
 
 <!---
