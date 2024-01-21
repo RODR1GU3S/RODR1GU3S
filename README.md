@@ -1,8 +1,8 @@
 - Hi, I’m Ronaldo Rodrigues
 - I’m interested in C# and .Net
-- I’m currently learning C# and MySQL
 - I’m looking for Developer opportunities
-- How to reach me "RODR1GU3S"
+- I'm currently learning C# and MySQL at Senac College
+- How to reach me "RODR1GU3S" and "https://www.linkedin.com/in/ronaldo-rodrigues-172826267"
 
 <!---
 RODR1GU3S/RODR1GU3S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
