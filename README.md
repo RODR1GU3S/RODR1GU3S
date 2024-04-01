@@ -1,4 +1,5 @@
 - Hi, I'm Ronaldo Rodrigues;
+- English Proficiency Level - B2;
 - I am currently:
 - Graduating; C# and MySQL at Faculdade Senac;
 - Specializing; C# and .NET on Microsoft Learn, HackerRank and freeCodeCamp;
