@@ -1,8 +1,8 @@
 - Hi, I'm Ronaldo Rodrigues;
-- I'm currently learning and specializing:
--   C# and MySQL at Senac College;
--   C# and .NET  at Microsoft Learn and freeCodeCamp.
-- I'm looking for developer opportunities in C# and .Net Framework languages;
+- I am currently:
+- Graduating; C# and MySQL at Faculdade Senac;
+- Specializing; C# and .NET on Microsoft Learn, HackerRank and freeCodeCamp;
+- I'm looking for opportunities as a Back-End developer in C# and .Net Framework languages;
 - How to reach me:
 -   GitHub RODR1GU3S
 -   www.linkedin.com/in/ronaldo-rodr1gu3s
