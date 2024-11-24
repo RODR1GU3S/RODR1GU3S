@@ -2,8 +2,12 @@
 - English Proficiency Level - B2;
 - I am currently:
 - Graduating; Java, C# and MySQL at Faculdade Senac;
-- Specializing; Java, C# and .NET on Microsoft Learn, HackerRank and freeCodeCamp;
-- I'm looking for opportunities as a Back-End developer in Java, C# and .Net Framework languages;
+- Specializing:
+-   Java e Programação Orientada a Objetos;
+-   Spring Framework;
+-   Spring Boot;
+-   APIs Rest.
+- I'm looking for opportunities as a Back-End developer in Java;
 - How to reach me:
 -   GitHub RODR1GU3S
 -   www.linkedin.com/in/ronaldo-rodr1gu3s
