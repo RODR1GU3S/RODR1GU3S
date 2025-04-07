@@ -2,7 +2,7 @@
 # Hello! 👋 I'm Ronaldo Rodrigues!
 
 🎓 **Currently Studying**:  
-- **Data Structures, Databases, Object-Oriented Programming (OOP), Software Engineering, Programming Languages** such as **Java, C#, and MySQL** at **Faculdade Senac**.
+- **Data Structures, Databases, Object-Oriented Programming (OOP), Programming Languages** such as **Java, C#, and MySQL** at **Faculdade Senac**.
 
 💡 **Specializing in**:  
 - **Backend Development with Java**, focusing on:  
