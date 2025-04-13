@@ -15,63 +15,63 @@
 
 ## Featured Projects 📂
 
-### **Generic_Example**  
+### **Generic**  
 - 🧩 *Description*: Demonstrates the use of **Generics** in Java to create reusable and type-safe code structures.  
 - 💡 *Concepts*: Clean Code and type parametrization, improving flexibility and reusability.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Interface_Default_Methods**  
+### **Interface Default Methods**  
 - 🧩 *Description*: Explores the implementation of **default methods** in Java interfaces, showcasing how to add new methods to interfaces without breaking existing code.  
 - 💡 *Concepts*: Java 8 features, Clean Code principles, and backward compatibility in system design.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Interface_Comparable_Example**  
+### **Interface Comparable**  
 - 🧩 *Description*: Implements sorting functionality using the **Comparable Interface**, illustrating a practical application of Object-Oriented Programming (OOP).  
 - 💡 *Concepts*: Clean Code, encapsulation, and adherence to Open/Closed Principle (SOLID).  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **CheckedExceptions_Example**  
+### **Checked Exceptions**  
 - 🧩 *Description*: Delves into **Checked Exceptions** in Java, explaining the necessity of handling or propagating compile-time exceptions.  
 - 💡 *Concepts*: Clean Code error handling, Exception hierarchy, and robust coding practices.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Working_With_Files_Example**  
+### **Files**  
 - 🧩 *Description*: A practical project in Java focused on reading, sorting, and displaying lines from a text file.  
 - 💡 *Concepts*: File handling, Clean Code practices, and data processing optimization.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Diamond_Problem**  
+### **Diamond Problem**  
 - 🧩 *Description*: Demonstrates the **Diamond Problem** in multiple inheritance and how Java resolves it using interfaces.  
 - 💡 *Concepts*: SOLID (Interface Segregation Principle) and conflict resolution in multiple inheritance.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Interface_Example**  
+### **Interface**  
 - 🧩 *Description*: Showcases the role of **Interfaces** in establishing a contract for classes to follow, ensuring consistency and flexibility in design.  
 - 💡 *Concepts*: Clean Code, Interface Segregation Principle, and abstraction in OOP.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Composition_Example**  
+### **Composition**  
 - 🧩 *Description*: Demonstrates **Composition** as a form of association, where one object contains another, emphasizing code modularity and reusability.  
 - 💡 *Concepts*: SOLID (Dependency Inversion Principle), composition over inheritance, and Clean Code.  
 - 🔧 *Technology*: Java  
 
 ---
 
-### **Exceptions-Java**  
+### **Exceptions**  
 - 🧩 *Description*: A private project focused on implementing advanced exception handling techniques in Java.  
 - 💡 *Concepts*: Checked exceptions, Clean Code principles, and improving code reliability through error management.  
 - 🔧 *Technology*: Java  
