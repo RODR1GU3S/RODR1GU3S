@@ -2,7 +2,8 @@
 # Hello! 👋 I'm Ronaldo Rodrigues!
 
 🎓 **Currently Studying**:  
-- **Data Structures, Databases, Object-Oriented Programming (OOP), Programming Languages** such as **Java, C#, and MySQL** at **Faculdade Senac**.
+  - **Data Structures, Databases, Object-Oriented Programming (OOP), Functional Programming.
+  - ** Programming Languages** such as **Java, C#, and MySQL** at **Faculdade Senac**.
 
 💡 **Specializing in**:  
 - **Backend Development with Java**, focusing on:  
@@ -13,74 +14,89 @@
 
 ---
 
-## Featured Projects 📂
+## 🔹 Programação Funcional em Java
 
-### **Generic**  
-- 🧩 *Description*: Demonstrates the use of **Generics** in Java to create reusable and type-safe code structures.  
-- 💡 *Concepts*: Clean Code and type parametrization, improving flexibility and reusability.  
-- 🔧 *Technology*: Java  
+### 📂 Featured Projects :
 
----
+#### 🧩 Functional Interfaces & Lambda Expressions
+Demonstra o uso de Consumer, Function, Predicate, Comparator, Method Reference, Pipeline e Lambda Expressions para aplicar conceitos da programação funcional em Java.
 
-### **Interface Default Methods**  
-- 🧩 *Description*: Explores the implementation of **default methods** in Java interfaces, showcasing how to add new methods to interfaces without breaking existing code.  
-- 💡 *Concepts*: Java 8 features, Clean Code principles, and backward compatibility in system design.  
-- 🔧 *Technology*: Java  
+Conceitos: Clean Code, expressividade, reuso de lógica, operações declarativas com Stream API, transformação e filtragem de dados.
 
----
+* **Lambda Expressions**
+  Simplificam a implementação de interfaces funcionais com expressões concisas.
 
-### **Interface Comparable**  
-- 🧩 *Description*: Implements sorting functionality using the **Comparable Interface**, illustrating a practical application of Object-Oriented Programming (OOP).  
-- 💡 *Concepts*: Clean Code, encapsulation, and adherence to Open/Closed Principle (SOLID).  
-- 🔧 *Technology*: Java  
+* **Method Reference**
+  Referência direta a métodos existentes, tornando o código ainda mais limpo.
 
----
+* **Functional Interfaces:**
 
-### **Checked Exceptions**  
-- 🧩 *Description*: Delves into **Checked Exceptions** in Java, explaining the necessity of handling or propagating compile-time exceptions.  
-- 💡 *Concepts*: Clean Code error handling, Exception hierarchy, and robust coding practices.  
-- 🔧 *Technology*: Java  
+  * `Comparator<T>` – Comparação personalizada entre objetos.
+  * `Consumer<T>` – Executa uma ação com um dado.
+  * `Function<T, R>` – Transforma um tipo em outro.
+  * `Predicate<T>` – Testa uma condição booleana.
+  * `Stream<T>` – Processamento em pipeline de coleções (filter, map, reduce, etc).
+
+* **Pipeline**
+  Encadeamento fluente de operações sobre coleções, melhorando legibilidade e performance.
 
 ---
 
-### **Files**  
-- 🧩 *Description*: A practical project in Java focused on reading, sorting, and displaying lines from a text file.  
-- 💡 *Concepts*: File handling, Clean Code practices, and data processing optimization.  
-- 🔧 *Technology*: Java  
+## 🔹 Técnicas e Conhecimentos em Java OO
+
+### 📂 Featured Projects :
+
+#### 🧩 Generic
+
+* Uso de **Generics** para código reutilizável e seguro.
+* Conceitos: Clean Code, parametrização de tipo.
+
+#### 🧩 Interface Default Methods
+
+* Adição de métodos em interfaces com implementação padrão.
+* Conceitos: Java 8, compatibilidade retroativa, Clean Code.
+
+#### 🧩 Interface Comparable
+
+* Ordenação de objetos via `Comparable`.
+* Conceitos: Encapsulamento, OCP (Open/Closed Principle).
+
+#### 🧩 Checked Exceptions
+
+* Tratamento e propagação de exceções obrigatórias.
+* Conceitos: Hierarquia de exceções, código robusto.
+
+#### 🧩 Files
+
+* Leitura, ordenação e exibição de dados em arquivos.
+* Conceitos: Processamento de dados, boas práticas.
+
+#### 🧩 Diamond Problem
+
+* Conflito de herança múltipla e solução via interfaces.
+* Conceitos: Interface Segregation Principle, herança segura.
+
+#### 🧩 Interface
+
+* Criação e uso de contratos para classes.
+* Conceitos: Abstração, Clean Code, SOLID.
+
+#### 🧩 Composition
+
+* Composição como alternativa à herança.
+* Conceitos: DIP (Dependency Inversion Principle), modularidade.
+
+#### 🧩 Exceptions (avançado)
+
+* Tratamento robusto de exceções.
+* Conceitos: Design resiliente, separação de responsabilidades.
 
 ---
-
-### **Diamond Problem**  
-- 🧩 *Description*: Demonstrates the **Diamond Problem** in multiple inheritance and how Java resolves it using interfaces.  
-- 💡 *Concepts*: SOLID (Interface Segregation Principle) and conflict resolution in multiple inheritance.  
-- 🔧 *Technology*: Java  
-
----
-
-### **Interface**  
-- 🧩 *Description*: Showcases the role of **Interfaces** in establishing a contract for classes to follow, ensuring consistency and flexibility in design.  
-- 💡 *Concepts*: Clean Code, Interface Segregation Principle, and abstraction in OOP.  
-- 🔧 *Technology*: Java  
-
----
-
-### **Composition**  
-- 🧩 *Description*: Demonstrates **Composition** as a form of association, where one object contains another, emphasizing code modularity and reusability.  
-- 💡 *Concepts*: SOLID (Dependency Inversion Principle), composition over inheritance, and Clean Code.  
-- 🔧 *Technology*: Java  
-
----
-
-### **Exceptions**  
-- 🧩 *Description*: A private project focused on implementing advanced exception handling techniques in Java.  
-- 💡 *Concepts*: Checked exceptions, Clean Code principles, and improving code reliability through error management.  
-- 🔧 *Technology*: Java  
-
----
-
 
 📄 **Seeking Opportunities**:  
 Looking for a position as a **Back-End Developer**, specializing in **Java**.
+
+---
 
 📫 **Contact Me**:  
 - [GitHub](https://github.com/RODR1GU3S)  
