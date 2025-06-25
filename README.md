@@ -42,7 +42,7 @@ Conceitos: Clean Code, expressividade, reuso de lógica, operações declarativa
 
 ---
 
-## 🔹 Técnicas e Conhecimentos em Java OO
+## 🔹 Java OO
 
 ### 📂 Featured Projects :
 
