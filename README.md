@@ -7,7 +7,7 @@
 ---
 
 💡 **Specializing in**  
-- **Back-End Development with Java**, using **Spring Boot**, **JPA**, and **RESTful APIs**  
+- **Back-End Development with Java**, using **Spring Boot**, **Spring Data JPA**, and **RESTful APIs**  
 - Writing clean, maintainable code with **Clean Code** and **SOLID Principles**  
 - Designing scalable architectures with **Design Patterns**
 
