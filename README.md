@@ -60,6 +60,10 @@ Favoring composition over inheritance
 Robust exception handling techniques  
 **Concepts**: Resilient design, responsibility separation
 
+### 🧩 IoC & DI  
+Inversion of Control and Dependency Injection applied to services  
+**Concepts**: Decoupling, flexibility, testability
+
 ---
 
 📄 **Seeking Opportunities**  
