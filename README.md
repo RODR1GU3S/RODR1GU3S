@@ -1,6 +1,7 @@
 # Ronaldo Rodrigues
 
-Desenvolvedor Backend Java␠␠
+Desenvolvedor Backend Java
+
 Focado em Spring Boot, APIs REST e arquitetura de sistemas
 
 ---
@@ -9,14 +10,14 @@ Focado em Spring Boot, APIs REST e arquitetura de sistemas
 
 ### DSCommerce API
 
-API REST de e-commerce com gerenciamento de usuários, produtos, pedidos e pagamentos.␠␠
+API REST de e-commerce com gerenciamento de usuários, produtos, pedidos e pagamentos.
 https://github.com/RODR1GU3S/dscommerce-api
 
 ---
 
 ### CRUD API
 
-API REST para gerenciamento de clientes com operações completas de CRUD.␠␠
+API REST para gerenciamento de clientes com operações completas de CRUD.
 https://github.com/RODR1GU3S/spring-boot-crud-api
 
 ---
@@ -67,9 +68,9 @@ https://github.com/RODR1GU3S/spring-boot-crud-api
 
 ## Sobre minha trajetória
 
-Profissional com mais de 20 anos de experiência em ambiente corporativo, atuando com análise de dados, regras de negócio e sistemas integrados.␠␠
+Profissional com mais de 20 anos de experiência em ambiente corporativo, atuando com análise de dados, regras de negócio e sistemas integrados.
 
-Atualmente em transição para desenvolvimento backend Java, aplicando essa bagagem na construção de sistemas mais consistentes, seguros e bem estruturados.␠␠
+Atualmente em transição para desenvolvimento backend Java, aplicando essa bagagem na construção de sistemas mais consistentes, seguros e bem estruturados.
 
 ---
 
