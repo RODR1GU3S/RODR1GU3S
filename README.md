@@ -1,79 +1,85 @@
-# Hello! 👋 I'm Ronaldo Rodrigues!
+# Ronaldo Rodrigues
 
-🎓 **Currently Studying**  
-- *Object-Oriented Programming (OOP), Functional Programming, Databases, Data Structures*  
-- Programming languages such as **Java**, **C#**, and **SQL** (for databases), at **Faculdade Senac**
-
----
-
-💡 **Specializing in**  
-- **Back-End Development with Java**, using **Spring Boot**, **Spring Data JPA**, and **RESTful APIs**  
-- Writing clean, maintainable code with **Clean Code** and **SOLID Principles**  
-- Designing scalable architectures with **Design Patterns**
+Desenvolvedor Backend Java
+Focado em Spring Boot, APIs REST e arquitetura de sistemas
 
 ---
 
-## 🔹 Functional Programming in Java
+## Projetos em destaque
 
-### 🧩 Streams and Lambdas
-
-Demonstrates the use of **Lambda Expressions**, **Method References**, and core **Functional Interfaces** like `Consumer`, `Function`, `Predicate`, `Comparator`, and `Stream`.  
-Focuses on expressiveness, reusability, and declarative data processing through fluent **pipelines** using the **Stream API**.
-
----
-
-## 🔹 Object-Oriented Programming in Java
-
-### 🧩 Generics
-Reusable and type-safe code using **Generics**  
-**Concepts**: Type parameterization, abstraction, flexibility
-
-### 🧩 Interface Default Methods  
-Extending interfaces with default implementations  
-**Concepts**: Java 8 features, backward compatibility
-
-### 🧩 Comparable Interface  
-Object ordering using `Comparable`  
-**Concepts**: Encapsulation, OCP (Open/Closed Principle)
-
-### 🧩 Checked Exceptions  
-Handling and propagating required exceptions  
-**Concepts**: Exception hierarchy, robust code
-
-### 🧩 File Processing  
-Reading, sorting, and displaying data from files  
-**Concepts**: Data processing, best practices
-
-### 🧩 Diamond Problem  
-Resolving multiple inheritance conflicts with interfaces  
-**Concepts**: Interface Segregation Principle, safe inheritance
-
-### 🧩 Interfaces  
-Defining class contracts through interfaces  
-**Concepts**: Abstraction, modular design
-
-### 🧩 Composition  
-Favoring composition over inheritance  
-**Concepts**: DIP (Dependency Inversion Principle), flexibility
-
-### 🧩 Advanced Exceptions  
-Robust exception handling techniques  
-**Concepts**: Resilient design, responsibility separation
-
-### 🧩 IoC & DI  
-Inversion of Control and Dependency Injection applied to services  
-**Concepts**: Decoupling, flexibility, testability
+**DSCommerce API**
+API REST de e-commerce com gerenciamento de usuários, produtos, pedidos e pagamentos.
+https://github.com/RODR1GU3S/dscommerce-api
 
 ---
 
-📄 **Seeking Opportunities**  
-Open to opportunities as a **Back-End Developer**, specializing in **Java** and the **Spring ecosystem**
+**CRUD API**
+API REST para gerenciamento de clientes com operações completas de CRUD.
+https://github.com/RODR1GU3S/spring-boot-crud-api
 
 ---
 
-📫 **Contact Me**  
-- [GitHub](https://github.com/RODR1GU3S)  
+## Tecnologias e ferramentas
+
+### Backend
+
+Java
+Spring Boot
+Spring Data JPA
+Hibernate
+APIs REST
+
+### Banco de dados
+
+PostgreSQL
+H2
+
+### Fundamentos
+
+Programação Orientada a Objetos (OO)
+Collections (List, Set, Map)
+Tratamento de exceções
+Programação funcional (Streams, Lambda)
+
+### Ferramentas
+
+Postman
+Git & GitHub
+Maven
+IDE (IntelliJ / Eclipse)
+
+---
+
+## Conceitos aplicados
+
+Arquitetura em camadas (Controller, Service, Repository)
+DTO
+Validação de dados (Bean Validation)
+Tratamento de exceções
+Mapeamento objeto-relacional (ORM)
+Injeção de dependência (IoC)
+Clean Code
+SOLID
+
+---
+
+## Sobre minha trajetória
+
+Profissional com mais de 20 anos de experiência em ambiente corporativo, atuando com análise de dados, regras de negócio e sistemas integrados.
+
+Atualmente em transição para desenvolvimento backend Java, aplicando essa bagagem na construção de sistemas mais consistentes, seguros e bem estruturados.
+
+---
+
+## Objetivo
+
+Atuar como Desenvolvedor Backend Java, contribuindo com desenvolvimento de APIs REST, organização de sistemas e evolução de soluções escaláveis.
+
+---
+
+## Contato
 - [LinkedIn](https://www.linkedin.com/in/ronaldo-rodr1gu3s)  
-- **Email**: ronaldo.r.silva.78@gmail.com / ronaldo-silva@hotmail.com.br  
+- [GitHub](https://github.com/RODR1GU3S)  
+- **Email**: ronaldo.r.silva.78@gmail.com
 
 ---
