@@ -7,13 +7,15 @@ Focado em Spring Boot, APIs REST e arquitetura de sistemas
 
 ## Projetos em destaque
 
-**DSCommerce API**
+### DSCommerce API
+
 API REST de e-commerce com gerenciamento de usuários, produtos, pedidos e pagamentos.
 https://github.com/RODR1GU3S/dscommerce-api
 
 ---
 
-**CRUD API**
+### CRUD API
+
 API REST para gerenciamento de clientes com operações completas de CRUD.
 https://github.com/RODR1GU3S/spring-boot-crud-api
 
@@ -23,43 +25,43 @@ https://github.com/RODR1GU3S/spring-boot-crud-api
 
 ### Backend
 
-Java
-Spring Boot
-Spring Data JPA
-Hibernate
-APIs REST
+* Java
+* Spring Boot
+* Spring Data JPA
+* Hibernate
+* APIs REST
 
 ### Banco de dados
 
-PostgreSQL
-H2
+* PostgreSQL
+* H2
 
 ### Fundamentos
 
-Programação Orientada a Objetos (OO)
-Collections (List, Set, Map)
-Tratamento de exceções
-Programação funcional (Streams, Lambda)
+* Programação Orientada a Objetos (OO)
+* Collections (List, Set, Map)
+* Tratamento de exceções
+* Programação funcional (Streams, Lambda)
 
 ### Ferramentas
 
-Postman
-Git & GitHub
-Maven
-IDE (IntelliJ / Eclipse)
+* Postman
+* Git & GitHub
+* Maven
+* IDE (IntelliJ / Eclipse)
 
 ---
 
 ## Conceitos aplicados
 
-Arquitetura em camadas (Controller, Service, Repository)
-DTO
-Validação de dados (Bean Validation)
-Tratamento de exceções
-Mapeamento objeto-relacional (ORM)
-Injeção de dependência (IoC)
-Clean Code
-SOLID
+* Arquitetura em camadas (Controller, Service, Repository)
+* DTO
+* Validação de dados (Bean Validation)
+* Tratamento de exceções
+* Mapeamento objeto-relacional (ORM)
+* Injeção de dependência (IoC)
+* Clean Code
+* SOLID
 
 ---
 
@@ -78,8 +80,8 @@ Atuar como Desenvolvedor Backend Java, contribuindo com desenvolvimento de APIs 
 ---
 
 ## Contato
-- [LinkedIn](https://www.linkedin.com/in/ronaldo-rodr1gu3s)  
-- [GitHub](https://github.com/RODR1GU3S)  
-- **Email**: ronaldo.r.silva.78@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/ronaldo-rodr1gu3s)  
+* [GitHub](https://github.com/RODR1GU3S)  
+* **Email**: [ronaldo.r.silva.78@gmail.com](mailto:ronaldo.r.silva.78@gmail.com)
 
 ---
